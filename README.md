@@ -133,6 +133,6 @@ DB_SSLMODE=require
 Agregar aquí la imagen del DER:
 
 ```text
-docs/DER.png
+[docs/DER.png](https://github.com/Cesar-Galahad/PracticaOptativaBack/blob/bb7fbdd2718b1d9c5a84c6a70366076e3932837d/docs/DER.png)
 ```
 
